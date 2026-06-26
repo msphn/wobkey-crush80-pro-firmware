@@ -6,7 +6,7 @@ But I've paid 200 bucks for this filthy stinking keyboard and it's firmware so I
 
 So, with heavy use of claude, and many hours of tinkering, I've reverse engineered the firmware and have a working understanding of how it works, including the firmware patching tool.
 
-I NOP those jumps and now it's going for macOS also to the configurable table that are settable with VIA.
+I NOP those jumps and now it's going for macOS also to the configurable table that is settable with VIA.
 
 Also a word about the "QMK compatibility", it's a lie. It's the filthiest piece of shit implementation that works only for bunch of keys and has literally only one set of layers, that's probably why they hacked in that macOS that dirty.
 
