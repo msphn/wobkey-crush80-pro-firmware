@@ -1,6 +1,6 @@
 # Crush 80 Firmware fix for macOS mode
 ## Abstract
-I'm running this keyboard on macOS and linux. This keyboard hardcodes for macOS media keys. I hate this. And I hate wobkey. They support. And everything around them.
+I'm running this keyboard on macOS and linux. This keyboard hardcodes for macOS media keys. I hate this. And I hate wobkey. Their support. And everything around them.
 
 But I've paid 200 bucks for this filthy stinking keyboard and it's firmware so I won't accept that.
 
